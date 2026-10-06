@@ -4,3 +4,5 @@ resource "local_file" "demo" {
   filename = "hello.txt"
   content  = "Hello from Terraform via GitHub Actions!"
 }
+
+# Terraform GitHub Actions experiment
